@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a7cd2d1b.css",
+    "main.js": "/static/js/main.08e57b25.js",
+    "static/media/chess-icon-main.svg": "/static/media/chess-icon-main.dcabeb6e313314f41411b48abf7b04c4.svg",
+    "static/media/chess-icon-white.svg": "/static/media/chess-icon-white.6ad4b0fa1eb79adee1e596cbef1ee459.svg",
+    "static/media/chess-strategy-main.svg": "/static/media/chess-strategy-main.176e0a1ebf1ca2f96cd3cfc80bc55f0d.svg",
+    "static/media/chess-cup-main.svg": "/static/media/chess-cup-main.299287e6fe2234d45d1405ce8655f034.svg",
+    "static/media/chess-cup-white.svg": "/static/media/chess-cup-white.57f0f302467b95ca9f7bafd9389bc6da.svg",
+    "static/media/chess-strategy-white.svg": "/static/media/chess-strategy-white.bbfd6b82462aa5320fb21adb1ddcc934.svg",
+    "static/media/back-icon-main.svg": "/static/media/back-icon-main.7abd8f463dbd60cb0a805eed9d1eac4b.svg",
+    "static/media/back-icon-white.svg": "/static/media/back-icon-white.beecf56e51746cf0615bac9ee1cf9525.svg",
+    "static/media/chess-logo-main.svg": "/static/media/chess-logo-main.f602f3eb7d58804595a4ed572804ce4a.svg",
+    "static/media/chess-logo-white.svg": "/static/media/chess-logo-white.870690371aec2ede19bb255567265aba.svg",
+    "static/media/knock-out-stage-icon-white.svg": "/static/media/knock-out-stage-icon-white.04b8089959df6aaaf755f67734aa82df.svg",
+    "static/media/knock-out-stage-main.svg": "/static/media/knock-out-stage-main.f6ca1af3a4faf320c38ecf413a2ba52b.svg",
+    "static/media/online-chess-main.svg": "/static/media/online-chess-main.6b31c3921fc0993e4c8c6b7731cf3c8e.svg",
+    "static/media/online-chess-white.svg": "/static/media/online-chess-white.f8408fc4612382932647cde57c64ac35.svg",
+    "static/media/chat-icon-main.svg": "/static/media/chat-icon-main.c1839e29d8a2171ca195f11bb9983f65.svg",
+    "static/media/chat-icon-white.svg": "/static/media/chat-icon-white.e70bc54132ce5d5ccb4d743b895abf39.svg",
+    "index.html": "/index.html",
+    "main.a7cd2d1b.css.map": "/static/css/main.a7cd2d1b.css.map",
+    "main.08e57b25.js.map": "/static/js/main.08e57b25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7cd2d1b.css",
+    "static/js/main.08e57b25.js"
+  ]
+}
